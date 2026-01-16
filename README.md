@@ -75,4 +75,3 @@ With EatMyTxt, your AI will never again be able to say “I don’t have enough 
 Never.
 
 If it still screws up with the whole project right in its face, that’s on the AI, not on you.
-# EatMyTXT
