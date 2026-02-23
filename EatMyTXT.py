@@ -16,7 +16,7 @@ except ImportError:
 # 1. Extensions de fichiers à INCLURE (Code source utile)
 INCLUDED_EXTENSIONS = [
     ".dart", ".js", ".ts", ".jsx", ".tsx", ".template",
-    ".json", ".yaml", ".yml",
+    ".json", ".yaml", ".yml",".asm",".bat"
     ".html", ".htm", ".css",
     ".md", ".txt",
     ".py", ".java", ".kt", ".c", ".cpp", ".h", ".hpp",
