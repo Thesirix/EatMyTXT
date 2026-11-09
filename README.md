@@ -2,10 +2,10 @@
 
 ![EatMyTxt Logo](eatlogo.png)
 
-EatMyTxt was created with one very clear mission: to shut up any AI that keeps pretending it “can’t analyze your code”, “doesn’t have enough context”, or starts inventing imaginary errors out of thin air.  
+EatMyTxt was created with one very clear mission: to shut up any AI that keeps pretending it “can’t analyze your code”, “doesn’t have enough context”, or starts inventing imaginary errors out of thin air.
 This tool wipes out all excuses instantly.
 
-EatMyTxt takes your entire project – every folder, every file, every line – and rebuilds one giant text file that includes the exact file path of each piece of code.  
+EatMyTxt takes your entire project (every folder, every file, every line) and rebuilds one giant text file that includes the exact file path of each piece of code.
 No hiding. No missing files. No bullshit.
 
 ---
@@ -24,10 +24,10 @@ EatMyTxt performs three brutal and very straightforward actions:
    - The complete code inside
    - Clean spacing so even a lazy AI can follow the structure
 
-Result: no AI can say “I don’t understand”, “I’m missing a file”, “I don’t have enough context”, or “I can’t open your zip boohoo”.  
-No stupid 37 MB limits.  
-No “your archive is too big”.  
-No “I couldn’t load your project”.  
+Result: no AI can say “I don’t understand”, “I’m missing a file”, “I don’t have enough context”, or “I can’t open your zip boohoo”.
+No stupid 37 MB limits.
+No “your archive is too big”.
+No “I couldn’t load your project”.
 They can read. That’s already good enough. EatMyTxt does the rest.
 
 ---
@@ -36,11 +36,11 @@ They can read. That’s already good enough. EatMyTxt does the rest.
 
 ![EatMyTxt Interface](interface.png)
 
-The interface is intentionally simple and direct.  
+The interface is intentionally simple and direct.
 You select your project folder, click one button, and BOOM: a single giant text file that even the laziest AI can’t ignore.
 
-No excuses.  
-No errors.  
+No excuses.
+No errors.
 No crying about missing context.
 
 ---
@@ -49,10 +49,10 @@ No crying about missing context.
 
 ![EatMyTxt Output](output.png)
 
-The final file is clean, readable, structured, and absolutely impossible to misinterpret.  
-Paths included.  
-Files included.  
-Code included.  
+The final file is clean, readable, structured, and absolutely impossible to misinterpret.
+Paths included.
+Files included.
+Code included.
 Nothing left for the AI to complain about.
 
 ---
